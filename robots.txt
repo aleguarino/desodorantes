@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.topdesodorante.es/sitemap.xml
